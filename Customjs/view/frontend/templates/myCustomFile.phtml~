@@ -1,0 +1,8 @@
+<?php
+
+echo "This is my custom file for product list page";
+
+?>
+<div data-mage-init='{"myCustomFile": {"message": "HELLO WORLD!"}}'>
+    Content
+</div>
